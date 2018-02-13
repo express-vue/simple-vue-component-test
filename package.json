@@ -1,0 +1,19 @@
+{
+  "name": "simple-vue-component-test",
+  "version": "1.0.0",
+  "description": "Simple vue component used for tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/express-vue/simple-vue-component-test.git"
+  },
+  "author": "Daniel Cherubini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/express-vue/simple-vue-component-test/issues"
+  },
+  "homepage": "https://github.com/express-vue/simple-vue-component-test#readme"
+}
